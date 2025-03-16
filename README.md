@@ -3,8 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 CodeMerger - это настольное приложение, которое помогает анализировать и экспортировать структуру файлов и содержимое вашего проекта. Оно было создано для упрощения обмена кодом с ИИ-ассистентами, предоставляя чистое, организованное представление вашей кодовой базы.
+![image](https://github.com/user-attachments/assets/eb484e92-08c9-43b8-bfd4-cf2aba11b92d)
 
-![Скриншот CodeMerger](screenshot.png)
+
 
 ## Возможности
 
